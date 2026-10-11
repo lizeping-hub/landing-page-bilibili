@@ -48,7 +48,7 @@ React 19、TypeScript 7、Vite 8、GSAP 3。CSS Grid/Flex 负责自动布局，G
 
 Vite 读取 `GITHUB_REPOSITORY`：普通项目站点自动使用 `/<仓库名>/`，`用户名.github.io` 仓库使用 `/`。自定义域名时可通过 `VITE_BASE_PATH=/` 覆盖。章节使用本页锚点，资源与 PNG 绘制均兼容项目路径。[Vite GitHub Pages 文档](https://vite.dev/guide/static-deploy.html#github-pages)
 
-目标仓库：[lizeping-hub/landing-page-bilibili](https://github.com/lizeping-hub/landing-page-bilibili)。Pages 地址：[前方高能！](https://lizeping-hub.github.io/landing-page-bilibili/)。部署结果以仓库 Actions 和 `github-pages` 环境为准。
+项目仓库：[lizeping-hub/landing-page-bilibili](https://github.com/lizeping-hub/landing-page-bilibili)。在线体验：[前方高能！](https://lizeping-hub.github.io/landing-page-bilibili/)。首版构建与 Pages 部署已成功，线上兴趣选择、短片、弹幕与 PNG 下载已复核。部署结果可在仓库 Actions 和 `github-pages` 环境查看。
 
 ## 资源预算
 
@@ -66,6 +66,6 @@ Vite 读取 `GITHUB_REPOSITORY`：普通项目站点自动使用 `/<仓库名>/`
 - [设计方案](docs/落地页设计方案-v1.md)
 - [AI 协作与设计决策](docs/AI协作与设计决策.md)
 - [素材来源](docs/素材来源.md) 与 [完整生成提示词](docs/素材提示词.json)
-- [本地验收记录](docs/验收记录.md)
+- [本地与线上验收记录](docs/验收记录.md)
 
 项目代码使用 MIT 许可证。品牌名称和标识不包含在项目代码授权中；依赖各自遵循其许可证。页面标注为个人概念设计。
