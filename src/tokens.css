@@ -1,0 +1,12 @@
+:root {
+  color-scheme: dark;
+  --primary-color: #fb7299;
+  --secondary-color: #00aeec;
+  --bg-color: #131829;
+  --surface-color: #1c2238;
+  --text-color: #f4f7ff;
+  --muted-color: #abb6cf;
+  --border-color: rgb(251 114 153 / 28%);
+  --nav-height: 72px;
+  --font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+}

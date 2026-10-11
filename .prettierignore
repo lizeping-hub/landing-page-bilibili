@@ -1,0 +1,7 @@
+node_modules
+dist
+.pnpm-store
+tmp
+docs/qa
+pnpm-lock.yaml
+docs/落地页设计方案-v1.md
